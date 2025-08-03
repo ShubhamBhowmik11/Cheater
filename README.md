@@ -131,6 +131,6 @@ Contributions are welcome! Please follow these steps:
 
 If you have any questions or suggestions, please feel free to reach out:
 
-- GitHub Issues: [Create an issue](https://github.com/aryan-aswal/Roomify)
-- Email: aryanaswal45@gmail.com
-- LinkedIn: [Aryan Aswal](https://www.linkedin.com/in/aryanaswal)
+- GitHub Issues: [Create an issue](https://github.com/Shubham Bhowmik11/Chater)
+- Email: shubhambhowmik106325@gmail.com
+- LinkedIn: [Shubham Bhowmik](https://www.linkedin.com/in/bhowmik11)
