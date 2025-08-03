@@ -41,8 +41,8 @@ Make sure you have the following installed:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/aryan-aswal/Roomify
-cd Roomify
+git clone https://github.com/ShubhamBhowmik11/Chater
+cd Chater
 ```
 
 2. Install dependencies for both client and server:
